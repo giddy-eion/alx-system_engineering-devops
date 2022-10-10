@@ -1,2 +1,2 @@
 #!/bim/bash
-cat | tail /etc/passwd
+cat | tail9 -10 /etc/passwd
