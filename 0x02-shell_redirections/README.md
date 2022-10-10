@@ -1,0 +1,1 @@
+ececutables on sheel redirections
